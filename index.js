@@ -11,4 +11,3 @@ const decrypt = (str) => {
     return strip.split('').reverse().join('');
 };
 exports.decrypt = decrypt;
-
